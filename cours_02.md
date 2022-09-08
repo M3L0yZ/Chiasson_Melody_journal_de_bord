@@ -7,24 +7,24 @@ Exemple:
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
 
-(EN COURS)
+
+# __❗ RECHERCHES ET TEXTES EN COURS ❗__
  
 ### [Kid A Mnesia](https://kida-mnesia.com/)
-Expliquer pourquoi vous avez choisi ce lien. 
+_En cours_
 
 ### [Infinity Room](https://refikanadol.com/works/infinity-room/)
-Expliquer pourquoi vous avez choisi ce lien.
+_En cours_
 
 ### [Machine Hallucination](https://refikanadol.com/works/machine-hallucination/)
-Expliquer pourquoi vous avez choisi ce lien.  
+ _En cours_ 
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Dream Machine](https://dreamachine.world/) 
+_En cours_
 
 ### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+_En cours_ 
 
-(PEUT-ÊTRE)
+## _(Idées de liens - Trouver meilleurs exemples)_
 
 https://cycling74.com/project/lines-interactive-sound-art-exhibition/
-https://dreamachine.world/
